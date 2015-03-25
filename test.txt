@@ -1,0 +1,4 @@
+foo git annex add test.txt git commit -a -m first git annex unlock test.txt echo foobar git commit -a -m second
+test test test
+
+test 1
